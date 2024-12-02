@@ -1,0 +1,18 @@
+**Learning outcomes** 
+**Skills** 
+• Be able to construct and reason about Python solutions to programming problems involving 
+selection and/or iteration.  
+Including, 
+o Constructing and reasoning about compound Boolean expressions involving the use 
+of python comparison operators.  
+o Constructing and reasoning about data selection expressions that use of string 
+slicing and casting.
+
+**Knowledge**
+• The forms of Python if, if-else and if-elif statements. 
+• Python comparison operators, the Boolean operators ‘and’, ‘not’ and ‘or’, and operator 
+precedence. 
+• The form of the Python for loop, and the use of break and continue statements. 
+• The role of the range function in for loops. 
+• The distinction between definite and indefinite loop structures. 
+• Forms and possible uses of string slice and casting operations. 
