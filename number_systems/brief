@@ -1,0 +1,14 @@
+**Learning outcomes**
+
+**Skills** 
+• Convert numbers between various representations. 
+• Implement arithmetic operations. 
+
+**Knowledge** 
+• Concepts of base and radix. Conversion between bases, including octal, hexadecimal and 
+binary. 
+• Floating point numbers: concepts of mantissa, exponent, significand; concept of 
+normalisation and steps involved. 
+• IEEE 754: format, single precision and double precision; number ranges; algorithm for 
+converting from other format; codes for zero; addition/subtraction; underflow/overflow 
+conditions
