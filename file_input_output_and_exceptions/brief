@@ -1,0 +1,12 @@
+**Learning outcomes**
+
+**Skills** 
+• Solve programming problems involving reading from and/or writing to files. 
+• Construct robust programs that handle exceptions.
+
+**Knowledge** 
+• Files: concepts of file, type, filename, file path; commands for opening, reading, writing and 
+closing files.    
+• Exceptions: concepts of exception and exception handling; common types of exception 
+(including TypeError, ValueError, IndexError, IOError); Form and function of try-catch[-else][
+finally] statements.
